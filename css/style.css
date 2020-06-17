@@ -1,0 +1,38 @@
+*{margin:0;
+padding:0;
+}
+.banner{
+  height: 350px;
+  width: 100%;
+  background-position: center;
+  overflow: hidden;
+  background-size: cover;
+
+}
+.menu{
+  background: #32264a;
+}
+.nav-link{
+  color: white !important;
+      margin-left: 52px;
+}
+.abar{
+  color:white;
+  background: red;
+}
+.sign-up h1{
+  font-size: 25px;
+}
+.sign-up input{
+  background: transparent;
+border: none;
+
+  outline: none;
+  padding: 10px;
+}
+.sign-up input::placeholder{
+  color: white;
+  border-bottom: 1px solid;
+  padding: 3px
+
+}
